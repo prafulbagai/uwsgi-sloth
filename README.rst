@@ -29,7 +29,7 @@ uwsgi-sloth is written in python, to install it, simply use pip:
     $ pip install uwsgi-sloth
 
     # Install the latest version from github
-    $ pip install -e git+https://github.com/piglei/uwsgi-sloth#egg=uwsgi-sloth
+    $ pip install -e git+https://github.com/prafulbagai/uwsgi-sloth#egg=uwsgi-sloth
 
 **uwsgi-sloth now only supports Python3.5 and above, for Python2 users, please install uwsgi-sloth<3.0.0 instead.**
 
